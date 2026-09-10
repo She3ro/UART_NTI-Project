@@ -1,0 +1,295 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdata_sampling
+Z1 !s100 Tf6EYB4IH9RUIaSQJUNFi2
+Z2 IUiMzFlfK1JYM_^?Ci1b_=3
+Z3 Vo?6O?a]8Ho:W?aRJWCfb60
+Z4 dH:\NTI Training\Final Project\UART_NTI-Project\UART
+Z5 w1758067316
+Z6 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v
+Z7 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v|
+Z10 o-work work -O0
+Z11 !s108 1789052097.566000
+Z12 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdeserializer
+Z13 !s100 CY2NLnXZ<00eP1jC1Y5Jf2
+Z14 IjBfJS3S8<6h;R07hnH[zS3
+Z15 VVWLJ^7R>EEAPEJeDTTHP63
+R4
+R5
+Z16 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v
+Z17 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v
+L0 2
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v|
+R10
+Z19 !s108 1789052097.651000
+Z20 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vedge_bit_counter
+Z21 !s100 f4h<^6@LM=9XajF_O^0@e2
+Z22 ISMQ=dEL@c1KI^cSIQh=n?2
+Z23 VWeOHY>H9WmFQQQVHeQ_[d3
+R4
+R5
+Z24 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v
+Z25 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v
+L0 1
+R8
+r1
+31
+Z26 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v|
+R10
+Z27 !s108 1789052097.770000
+Z28 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z29 !s100 NNjZ4f8`50D06RU468XMD3
+Z30 IV`GlzR1oQ02FIa@Vldb;]1
+Z31 V4KAV_zTNR7^9ChPbhWZc[3
+R4
+Z32 w1758031316
+Z33 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v
+Z34 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v
+L0 2
+R8
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v|
+R10
+Z36 !s108 1789052097.070000
+Z37 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpar_chk
+Z38 !s100 02b2BCONT[i7XDKO0_7S^2
+Z39 I0ZG`BahgWZ?7oIJ=jF_@z3
+Z40 VjDR_`7^?g5L>15<^<<CkW1
+R4
+R5
+Z41 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v
+Z42 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v
+L0 2
+R8
+r1
+31
+Z43 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v|
+R10
+Z44 !s108 1789052097.852000
+Z45 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vparity_calc
+Z46 !s100 TfS40UgbH^X5kDEMOHUB[1
+Z47 IE7><HjoJT4_DeR`gaDZXc0
+Z48 VCDf3]B^a6m^HM53L0ZDeQ0
+R4
+R32
+Z49 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v
+Z50 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v
+L0 1
+R8
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v|
+R10
+Z52 !s108 1789052097.172000
+Z53 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSerializer
+Z54 !s100 LdXGe4<>O<Qb]VSn;HH?T0
+Z55 I1kzB6m4SPRb32nj`AG8AG0
+Z56 V]94ISUZFk1ezPo?]hXYz]1
+R4
+R32
+Z57 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v
+Z58 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v
+L0 2
+R8
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v|
+R10
+Z60 n@serializer
+Z61 !s108 1789052097.249000
+Z62 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstp_chk
+Z63 !s100 jOjF^Kc[22P^XPN<JBbAB0
+Z64 I9E>C<NOj1`1i?DIQBUe:>2
+Z65 VH7]5HV:0ITQch?27AENHL2
+R4
+R5
+Z66 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v
+Z67 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v
+L0 2
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v|
+R10
+Z69 !s108 1789052097.943000
+Z70 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstrt_chk
+Z71 !s100 27_Ve?Y:7>HA9lH=Q=ZZk3
+Z72 IY2C=P`z=0OVjX<:8bk_a73
+Z73 VOCUaaZanZJ`eP:a_EAzA40
+R4
+R5
+Z74 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v
+Z75 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v
+L0 2
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v|
+R10
+Z77 !s108 1789052098.062000
+Z78 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_RX
+Z79 !s100 egU?EzzgfZoT>HT9;AF7Q0
+Z80 Ia6EaUPk_Sh4bAEf<OU=<z1
+Z81 VzA>=T>Wb`VAPEV]maG79M0
+R4
+R5
+Z82 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v
+Z83 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v
+L0 2
+R8
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v|
+R10
+Z85 n@u@a@r@t_@r@x
+Z86 !s108 1789052098.178000
+Z87 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_rx_fsm
+Z88 !s100 R?Lfa4YXM6M?ZL42[[fYi0
+Z89 IlDLUoLIb8^iaUlZjPHj1Q2
+Z90 VjISTfLGV5`ki`ZB]?jUoe2
+R4
+R5
+Z91 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v
+Z92 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v
+L0 2
+R8
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v|
+R10
+!i10b 1
+!s85 0
+Z94 !s108 1789052098.257000
+Z95 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v|
+!s101 -O0
+vUART_RX_TB
+!i10b 1
+!s100 A@>GdanPmjedl0NQ@k1iI3
+ILeGaCBnb`m0cc`0izNHaO1
+VRYKlFED`QVmcOKkekk?6Z3
+R4
+w1789051993
+8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v
+FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1789052098.336000
+!s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v|
+!s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v|
+!s101 -O0
+R10
+n@u@a@r@t_@r@x_@t@b
+vUART_TX
+Z96 !s100 ijKRoD4@?PE4NXlU`?1:>2
+Z97 IMcodXI0YLX<zUYgSc250h3
+Z98 V[36n`^nP2R2Zh[HcCJ4Eo1
+R4
+R32
+Z99 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v
+Z100 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v
+L0 2
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v|
+R10
+Z102 n@u@a@r@t_@t@x
+Z103 !s108 1789052097.320000
+Z104 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_tx_fsm
+Z105 !s100 UBRb9BUKJ5cQIKCloUcUz1
+Z106 IddTX4Kk8S>UWV7DcBHRfT0
+Z107 V>5Y65o`1EWajX`VlXG[nG2
+R4
+R32
+Z108 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v
+Z109 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v
+L0 2
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v|
+R10
+Z111 !s108 1789052097.403000
+Z112 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_TX_TB
+Z113 !s100 L3i[XMJ>3R1;GACQ<390<3
+Z114 IXNm6M]EQZoCVLJEnXMi_M2
+Z115 Vnoo:n_Y_EFHQABk9j6lIm0
+R4
+Z116 w1786169724
+Z117 8H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v
+Z118 FH:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v
+L0 5
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v|
+R10
+Z120 n@u@a@r@t_@t@x_@t@b
+Z121 !s108 1789052097.478000
+Z122 !s107 H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
