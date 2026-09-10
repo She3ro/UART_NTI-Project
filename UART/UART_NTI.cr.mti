@@ -1,0 +1,113 @@
+{H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/uart_tx_fsm.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_tx_fsm
+
+Top level modules:
+	uart_tx_fsm
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX_TB
+
+Top level modules:
+	UART_TX_TB
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/par_chk.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module par_chk
+
+Top level modules:
+	par_chk
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/strt_chk.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module strt_chk
+
+Top level modules:
+	strt_chk
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/deserializer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/parity_calc.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module parity_calc
+
+Top level modules:
+	parity_calc
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/UART_TX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/UART_RX_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX_TB
+
+Top level modules:
+	UART_RX_TB
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/uart_rx_fsm.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_rx_fsm
+
+Top level modules:
+	uart_rx_fsm
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/edge_bit_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_TX/Serializer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/data_sampling.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v} {1 {vlog -work work {H:/NTI Training/Final Project/UART_NTI-Project/UART/UART_RX/stp_chk.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stp_chk
+
+Top level modules:
+	stp_chk
+
+} {} {}}
