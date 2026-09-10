@@ -1,0 +1,8 @@
+{H:/NTI Training/Labs/Lab_3/MUX.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_3/MUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}}

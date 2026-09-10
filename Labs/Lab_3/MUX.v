@@ -1,0 +1,19 @@
+module MUX # (parameter width = 5)
+(
+input wire [width - 1: 0] in0,
+input wire [width -1 : 0] in1,
+input wire                sel,
+output reg [width - 1: 0] out
+);
+
+  always @ (*)
+  begin
+  if (sel == 1'b0)
+   out = in0;
+  else 
+    begin
+   out = in1;
+   end
+ end
+
+endmodule

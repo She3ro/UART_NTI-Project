@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+valu
+Z1 IR9Hik?Hoe^9M2PbF^bjin3
+Z2 VWIoYXWMa?Qd`FQa<e8>=n2
+Z3 dH:\NTI Training\Labs\Lab_4
+Z4 w1788105679
+Z5 8H:/NTI Training/Labs/Lab_4/ALU.v
+Z6 FH:/NTI Training/Labs/Lab_4/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_4/ALU.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 SbQ]4<3^OA5h`04AGnJ3a0
+!s85 0
+Z11 !s108 1788105720.674000
+Z12 !s107 H:/NTI Training/Labs/Lab_4/ALU.v|
+!s101 -O0
+vsipo_reg
+Z13 IlUHSiU?AgJGOM=TS0]FZS2
+Z14 VTlF?iN^=]kj0`=<ZJN9?b0
+R3
+Z15 w1788105690
+Z16 8H:/NTI Training/Labs/Lab_4/SIPO.v
+Z17 FH:/NTI Training/Labs/Lab_4/SIPO.v
+L0 1
+R7
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_4/SIPO.v|
+R9
+Z19 !s100 Q22cB]NAGbJ]E3@QbSSDd2
+Z20 !s108 1788105720.559000
+Z21 !s107 H:/NTI Training/Labs/Lab_4/SIPO.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_top_sipo_alu
+Z22 I2:`b=4a5<Xn65jn@IOffz2
+Z23 Vk[=P2hCMaCJ4k?JF4ZVEb0
+R3
+Z24 w1788103984
+Z25 8H:/NTI Training/Labs/Lab_4/Top_TB.v
+Z26 FH:/NTI Training/Labs/Lab_4/Top_TB.v
+L0 3
+R7
+r1
+31
+R9
+Z27 !s100 JbIQNW?ifdZh5[b=doEG52
+Z28 !s108 1788103987.955000
+Z29 !s107 H:/NTI Training/Labs/Lab_4/Top_TB.v|
+Z30 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_4/Top_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_sipo_alu
+!i10b 1
+Z31 !s100 =k;M17Y`jINa6D54L;72Q3
+Z32 I>=nKKZ<:N:K7j9Jge246S3
+Z33 VMX1f]Wl1^jl<j_X<kY@l>3
+R3
+Z34 w1788104351
+Z35 8H:/NTI Training/Labs/Lab_4/Top.v
+Z36 FH:/NTI Training/Labs/Lab_4/Top.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1788105720.755000
+!s107 H:/NTI Training/Labs/Lab_4/Top.v|
+Z37 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_4/Top.v|
+!s101 -O0
+R9

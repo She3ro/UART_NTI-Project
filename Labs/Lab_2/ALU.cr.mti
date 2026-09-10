@@ -1,0 +1,15 @@
+{H:/NTI Training/Labs/Lab_2/ALU.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_2/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {H:/NTI Training/Labs/Lab_2/ALU_TB.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_2/ALU_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}}

@@ -1,0 +1,36 @@
+{H:/NTI Training/Labs/Lab_6/Sys_Top.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_6/Sys_Top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sys_Top
+
+Top level modules:
+	Sys_Top
+
+} {} {}} {H:/NTI Training/Labs/Lab_6/ALU.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_6/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {H:/NTI Training/Labs/Lab_6/PISO.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_6/PISO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module piso_reg
+
+Top level modules:
+	piso_reg
+
+} {} {}} {H:/NTI Training/Labs/Lab_6/SIPO.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_6/SIPO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sipo_reg
+
+Top level modules:
+	sipo_reg
+
+} {} {}} {H:/NTI Training/Labs/Lab_6/RAM.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_6/RAM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}}

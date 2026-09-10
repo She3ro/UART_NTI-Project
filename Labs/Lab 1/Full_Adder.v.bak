@@ -1,0 +1,29 @@
+module Full_Adder (
+  input wire a,
+  input wire b,
+  input wire c_in,
+  output reg sum,
+  output reg c_out
+  );
+  
+  reg w1, w2, w3, w4, w5;
+  always @ (*)
+  begin
+   w1 = a ^ b;
+   w2 = w1 & ~c_in;
+   w3 = a & b;
+   w4 = ~(a ^ b);
+   w5 = w4 & c_in;
+   sum = w2 | w5;
+   c_out = w2 | w3;
+  end
+  
+  //assign w1 = a ^ b;
+  //assign w2 = w1 & ~c_in;
+  //assign w3 = a & b;
+  //assign w4 = ~(a ^ b);
+  //assign w5 = w4 & c_in;
+  //assign sum = w2 | w5;
+  //assign c_out = w2 | w3;
+endmodule
+

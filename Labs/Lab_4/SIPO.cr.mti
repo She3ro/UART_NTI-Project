@@ -1,0 +1,27 @@
+{H:/NTI Training/Labs/Lab_4/SIPO.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_4/SIPO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sipo_reg
+
+Top level modules:
+	sipo_reg
+
+} {} {}} {H:/NTI Training/Labs/Lab_4/Top.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_4/Top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_sipo_alu
+
+Top level modules:
+	top_sipo_alu
+
+} {} {}} {H:/NTI Training/Labs/Lab_4/Top_TB.v} {0 {vlog -work work {H:/NTI Training/Labs/Lab_4/Top_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_top_sipo_alu
+** Error: H:/NTI Training/Labs/Lab_4/Top_TB.v(110): near "endmodule": syntax error, unexpected endmodule
+
+} {4.0 5.0} {}} {H:/NTI Training/Labs/Lab_4/ALU.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab_4/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

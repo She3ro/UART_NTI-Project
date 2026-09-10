@@ -1,0 +1,10 @@
+`timescale 1ns / 1ps
+module Sys_Top_tb;
+  
+    reg                   clk;
+    reg                   rst_n;
+    reg                   wr_en;
+    reg  [ADDR_WIDTH-1:0] addr;
+    reg  [DATA_WIDTH-1:0] din;
+    wire [ALU_WIDTH-1:0]  alu_out;
+    wire                  a_is_zero;

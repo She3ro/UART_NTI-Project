@@ -1,0 +1,154 @@
+module ALU_TB;
+  reg  [7: 0] a, b;
+  reg  [2: 0] opt;
+  wire [8: 0] out;
+  wire        zero;
+  
+  initial
+  begin
+    $dumpfile("ALU.vcd");
+    $dumpvars;
+    
+    $display ("Test Case 1");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 000;
+    
+    #1
+    
+    if(out == 01000010 && zero == 0)
+      $display ("Test case 1 succeeded");
+    else 
+      begin
+        $display ("Test case 1 failed");
+      end
+     $display ("Test Case 2");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 001;
+    
+    #1
+    
+    if(out == 00000100 && zero == 0)
+      $display ("Test case 2 succeeded");
+    else 
+      begin
+        $display ("Test case 2 failed");
+      end 
+      
+    $display ("Test Case 3");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 010;
+    
+    #1
+    
+    if(out == 11001000 && zero == 0)
+      $display ("Test case 3 succeeded");
+    else 
+      begin
+        $display ("Test case 3 failed");
+      end
+      
+    $display ("Test Case 4");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 011;
+    
+    #1
+    
+    if(out == 00000010 && zero == 0)
+      $display ("Test case 4 succeeded");
+    else 
+      begin
+        $display ("Test case 4 failed");
+      end
+
+    $display ("Test Case 5");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 100;
+    
+    #1
+    
+    if(out == 11000100 && zero == 0)
+      $display ("Test case 5 succeeded");
+    else 
+      begin
+        $display ("Test case 5 failed");
+      end
+
+    $display ("Test Case 6");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 101;
+    
+    #1
+    
+    if(out == 10000110 && zero == 0)
+      $display ("Test case 6 succeeded");
+    else 
+      begin
+        $display ("Test case 6 failed");
+      end
+
+    $display ("Test Case 7");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 110;
+    
+    #1
+    
+    if(out == 01000010 && zero == 0)
+      $display ("Test case 7 succeeded");
+    else 
+      begin
+        $display ("Test case 7 failed");
+      end
+      
+    $display ("Test Case 8");
+    
+    a = 8'b01000010;
+    b = 8'b10000110;
+    opt = 111;
+    
+    #1
+    
+    if(out == 9'b01000010 && zero == 0)
+      $display ("Test case 8 succeeded");
+    else 
+      begin
+        $display ("Test case 8 failed");
+      end
+
+    $display ("Test Case 9");
+    
+    a = 8'b00000000;
+    b = 8'b10000110;
+    opt = 111;
+    
+    #1
+    
+    if(out == 00000000 && zero == 1)
+      $display ("Test case 9 succeeded");
+    else 
+      begin
+        $display ("Test case 9 failed");
+      end
+    end    
+ ALU DUT0 (
+ .a(a),
+ .b(b),
+ .opt(opt),
+ .out(out),
+ .zero(zero)
+ );
+ 
+ endmodule                                          

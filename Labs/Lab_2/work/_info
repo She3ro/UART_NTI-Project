@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\Digital IC Diploma\Projects\UART_TX
+vALU
+Z1 ITlIBHj3T[F^G]bMhd9lVF0
+Z2 V`[;U_;@ahZ665zAOh5aWm3
+Z3 dH:\NTI Training\Labs\Lab_2
+Z4 w1787777707
+Z5 8H:/NTI Training/Labs/Lab_2/ALU.v
+Z6 FH:/NTI Training/Labs/Lab_2/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_2/ALU.v|
+Z9 o-work work -O0
+Z10 n@a@l@u
+!i10b 1
+Z11 !s100 DLVOIaS<Y3`9NY:V<ki1a2
+!s85 0
+Z12 !s108 1787777831.468000
+Z13 !s107 H:/NTI Training/Labs/Lab_2/ALU.v|
+!s101 -O0
+vALU_TB
+!i10b 1
+!s100 6KhQh>c55f;aoWmUd_6Aa3
+ImLE6aJVogJ=:Zg1<cG^UE1
+Z14 VT3H70N^;JzGPBGC?M:B<n3
+R3
+w1787777828
+Z15 8H:/NTI Training/Labs/Lab_2/ALU_TB.v
+Z16 FH:/NTI Training/Labs/Lab_2/ALU_TB.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1787777831.546000
+!s107 H:/NTI Training/Labs/Lab_2/ALU_TB.v|
+Z17 !s90 -reportprogress|300|-work|work|H:/NTI Training/Labs/Lab_2/ALU_TB.v|
+!s101 -O0
+R9
+Z18 n@a@l@u_@t@b

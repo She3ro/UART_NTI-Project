@@ -1,0 +1,29 @@
+{H:/NTI Training/Labs/Lab/Sys_Top_tb.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab/Sys_Top_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sys_top_tb
+
+Top level modules:
+	Sys_top_tb
+
+} {} {}} {H:/NTI Training/Labs/Lab/Binary_2_7segmant.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab/Binary_2_7segmant.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Binary_7segmant
+
+Top level modules:
+	Binary_7segmant
+
+} {} {}} {H:/NTI Training/Labs/Lab/Gray_2_Binary.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab/Gray_2_Binary.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Gray_2_Binary
+
+Top level modules:
+	Gray_2_Binary
+
+} {} {}} {H:/NTI Training/Labs/Lab/Sys_Top.v} {1 {vlog -work work {H:/NTI Training/Labs/Lab/Sys_Top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sys_top
+
+Top level modules:
+	Sys_top
+
+} {} {}}
